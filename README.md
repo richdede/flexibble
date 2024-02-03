@@ -7,7 +7,7 @@
   <br />
   <br />
 
-  <h2 align="center">>A Full Stack Dribble Clone</h2>
+  <h2 align="center">A Full Stack Dribble Clone</h2>
 
   <a href="https://richard-ryan-mu.vercel.app/"><strong>➥ Live Demo</strong></a>
 
