@@ -10,7 +10,7 @@ const User = g.model("User", {
   description: g.string().length({ min: 2, max: 1000 }).optional(),
   githubUrl: g.url().optional(),
   linkedinUrl: g.url().optional(),
-  projects: g.relation(),
+  projects: g.relation(() => Project).list().optional(),
 });
 
 // @ts-ignore
