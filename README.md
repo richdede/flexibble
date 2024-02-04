@@ -10,7 +10,7 @@
 
   <h2 align="center">A Full Stack Dribble Clone</h2>
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://flexibble-sage.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -68,7 +68,7 @@ If you're getting started and need assistance or face any bugs, contact me!
 
 👉 **Backend API Routes**: Backend API routes for handling JWT token management for secure authentication and image uploading, supporting seamless integration with the frontend.
 
-and many more, including code architecture and reusability 
+and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -122,4 +122,3 @@ For the Next Auth secret, you can generate any random secret using [crytool](htt
 ```bash
 npm run dev
 ```
-
